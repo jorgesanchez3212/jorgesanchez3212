@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://jorgesanchez3212.github.io/" target="_blank">
+    <img loading="lazy" style="border-radius: 0.25rem;" 
+      src="logo.png" alt="Logo" 
+      borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
+  </a>
+</p>
 
-<!--
-**jorgesanchez3212/jorgesanchez3212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align= "center">Buenas, soy Jorge Sánchez 💻😉</h1>
 
-Here are some ideas to get you started:
+Soy estudiante de [**1 de Desarrollo de aplicaciones multiplataforma** en el instituto ****IES Luis Vives****](https://aulavirtual33.educa.madrid.org/ies.luisvives.leganes/) en Formación Profesional de Grado Superior.
+Estoy interesado en aplicaciones web y móviles, además de deportes como el **snowboard**, **puenting**, **futbol**, etc. Me encanta el grado que estoy cursando y poder segir aprendiendo en este mundillo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Disfruto con el [**futbol club Leganes**](https://www.cdleganes.com/), me gusta todo tipo de **música** desde la antigua hasta la moderna🎸, ver **series/peliculas** como [**El Juego del Calamar de Netflix**](https://www.netflix.com/es/title/81040344)📺, el [**paddle**🎾](https://www.padelfederacion.es/Home)
+
+Me encanta estar con los amigos, disfrutar del momento (ya sabes a lo que me refiero pillin😉🍺)
+
+Y sobre todo me encanta seguir aprendiendo y seguir avanzando.
