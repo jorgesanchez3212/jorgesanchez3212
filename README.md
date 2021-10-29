@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://jorgesanchez3212.github.io/" target="_blank">
     <img loading="lazy" style="border-radius: 0.25rem;" 
-      src="https://user-images.githubusercontent.com/90856289/139239616-c0a9950c-e738-4cac-86ea-065b7d8a0e03.png" alt="Logo" width="1300px" height="400px"
+      src="https://user-images.githubusercontent.com/90856289/139239616-c0a9950c-e738-4cac-86ea-065b7d8a0e03.png" alt="Logo" width="1300px" height="300px"
       borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'> 
   </a>
 </p>
