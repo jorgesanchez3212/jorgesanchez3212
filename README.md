@@ -31,8 +31,10 @@ Me encanta estar con los amigos, disfrutar del momento (ya sabes a lo que me ref
 > 
 > - <https://twitter.com/JorgeSa72683438>
                    
-                   **◅ Lenguajes en aprendizaje ▻**
-<img width="26px" src= "https://user-images.githubusercontent.com/90856289/139806176-be269e81-e7cf-466b-a65f-7c019e1b7b74.png" /> &nbsp; *HTML.* 
+**◅ LENGUAJES DE APRENDIZAJE ▻**
+
+                   
+ <img width="26px" src= "https://user-images.githubusercontent.com/90856289/139806176-be269e81-e7cf-466b-a65f-7c019e1b7b74.png" /> &nbsp; *HTML.* 
 
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> &nbsp; *SQL.* 
 
