@@ -13,3 +13,30 @@ Soy estudiante de [**1 de Desarrollo de aplicaciones multiplataforma** en el ins
 Estoy interesado en aplicaciones web y móviles, además de deportes como el **snowboard**, **puenting**, **futbol**, etc. Me encanta el grado que estoy cursando y poder segir aprendiendo en este mundillo.
 Disfruto con el [**futbol club Leganes**](https://www.cdleganes.com/), me gusta todo tipo de **música** desde la antigua hasta la moderna🎸, ver **series/peliculas** como [**El Juego del Calamar de Netflix**](https://www.netflix.com/es/title/81040344)📺, el [**paddle**🎾](https://www.padelfederacion.es/Home)
 Me encanta estar con los amigos, disfrutar del momento (ya sabes a lo que me refiero pillin😉🍺). Y sobre todo me encanta seguir aprendiendo y seguir avanzando. Soy cinturon negro de ju-jitsu pero he dejado el deporte hace dos años y eso es todo de mi.
+
+**◅ DATOS PERSONALES ▻**
+> Jorge Sánchez Berrocoso.
+>
+> 18 años.
+>
+> España.
+>
+> [IES LUIS VIVES](http://iesluisvives.es/)
+
+                
+ **◅ CONTACTO ▻**
+> - <jsanchezberrocoso@gmail.com>
+> 
+>   - <jsanchezberrocoso@alumno.iesluisvives.org>
+> 
+> - <https://twitter.com/JorgeSa72683438>
+                   
+                   **◅ Lenguajes en aprendizaje ▻**
+<img width="26px" src= "https://user-images.githubusercontent.com/90856289/139806176-be269e81-e7cf-466b-a65f-7c019e1b7b74.png" /> &nbsp; *HTML.* 
+
+<img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> &nbsp; *SQL.* 
+
+<img width="26px" src="https://user-images.githubusercontent.com/90856289/139806319-958523d9-8220-4bd1-a2ea-543774eb3422.png" /> &nbsp; *JAVA.* 
+
+<img width="26px" src="https://user-images.githubusercontent.com/90856289/139806369-8a49528b-24e7-45b0-9a29-6aee345e1418.png" /> &nbsp; *TYPESCRIPT.* 
+
