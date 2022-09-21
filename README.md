@@ -27,7 +27,7 @@ Me encanta estar con los amigos, disfrutar del momento (ya sabes a lo que me ref
  **◅ CONTACTO ▻**
 > - <jsanchezberrocoso@gmail.com>
 > 
->   - <jsanchezberrocoso@alumno.iesluisvives.org>
+>   - <jorge.sanchezberrocoso@alumno.iesluisvives.org>
 > 
 > - <https://twitter.com/JorgeSa72683438>
                    
