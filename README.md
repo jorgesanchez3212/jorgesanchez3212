@@ -39,5 +39,5 @@ Me encanta estar con los amigos, disfrutar del momento (ya sabes a lo que me ref
 
 <img width="26px" src="https://user-images.githubusercontent.com/90856289/139806319-958523d9-8220-4bd1-a2ea-543774eb3422.png" /> &nbsp; *JAVA.* 
 
-<img width="26px" src="[https://user-images.githubusercontent.com/90856289/139806369-8a49528b-24e7-45b0-9a29-6aee345e1418.png](https://cms-assets.tutsplus.com/uploads/users/1499/posts/29820/preview_image/kotlin.jpg)" /> &nbsp; *KOTLIN.* 
+<img width="26px" src="https://user-images.githubusercontent.com/90856289/139806369-8a49528b-24e7-45b0-9a29-6aee345e1418.png" /> &nbsp; *KOTLIN.* 
 
