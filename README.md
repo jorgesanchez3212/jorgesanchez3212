@@ -17,7 +17,7 @@ Me encanta estar con los amigos, disfrutar del momento (ya sabes a lo que me ref
 **◅ DATOS PERSONALES ▻**
 > Jorge Sánchez Berrocoso.
 >
-> 18 años.
+> 19 años.
 >
 > España.
 >
