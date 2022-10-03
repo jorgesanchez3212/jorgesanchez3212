@@ -19,11 +19,11 @@ Me encanta estar con los amigos, disfrutar del momento (ya sabes a lo que me ref
 <h3 align = "center">《 DATOS PERSONALES 》<h3>
 <div align= "center">
 Jorge Sánchez Berrocoso. <br>
-><br>
+<br>
 19 años.<br>
-><br>
+<br>
 España.<br>
-><br>
+<br>
 [IES LUIS VIVES](http://iesluisvives.es/)<br>
                     </div>
                    
