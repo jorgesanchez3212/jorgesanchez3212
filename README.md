@@ -6,6 +6,8 @@
       borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'> 
   </a>
 </p>
+<p align="center"><b> Visitas totales al perfil <b/></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JorgeSanchezBerrocoso/count.svg" /></p> 
 
 <h1 align= "center">Buenas, soy Jorge Sánchez 💻😉</h1>
 
