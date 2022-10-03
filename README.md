@@ -16,20 +16,35 @@ Estoy interesado en aplicaciones web y móviles, además de deportes como el **s
 Disfruto con el [**futbol club Leganes**](https://www.cdleganes.com/), me gusta todo tipo de **música** desde la antigua hasta la moderna🎸, ver **series/peliculas** como [**El Juego del Calamar de Netflix**](https://www.netflix.com/es/title/81040344)📺, el [**paddle**🎾](https://www.padelfederacion.es/Home)
 Me encanta estar con los amigos, disfrutar del momento (ya sabes a lo que me refiero pillin😉🍺). Y sobre todo me encanta seguir aprendiendo y seguir avanzando. Soy cinturon negro de ju-jitsu pero he dejado el deporte hace dos años y eso es todo de mi.
 
-**◅ DATOS PERSONALES ▻**
-> Jorge Sánchez Berrocoso.
+<h3 align = "center">《 DATOS PERSONALES 》<h3>
+<div align= "center">
+Jorge Sánchez Berrocoso. <br>
+><br>
+19 años.<br>
+><br>
+España.<br>
+><br>
+[IES LUIS VIVES](http://iesluisvives.es/)<br>
+                    </div>
+                   
+<h2 align="center"> 《  Títulos oficiales 》</h2>
+  
+<div align="center">
+  
+Graduado en ***Educación Secundaria Obligatoria***.
 >
-> 19 años.
->
-> España.
->
-> [IES LUIS VIVES](http://iesluisvives.es/)
+Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
+</div>
+<br>
 
-                
- **◅ CONTACTO ▻**
-> - <jsanchezberrocoso@gmail.com>
-> 
->   - <jorge.sanchezberrocoso@alumno.iesluisvives.org>
+      
+<h2 align="center"> 《  Contacto 》</h2>
+                    <div align = "center">       
+- jsanchezberrocoso@gmail.com
+<br>
+- jorge.sanchezberrocoso@alumno.iesluisvives.org
+ </div><br>
+
 
                    
 **◅ LENGUAJES DE APRENDIZAJE ▻**
