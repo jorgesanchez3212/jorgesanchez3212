@@ -52,7 +52,7 @@ Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
                    
                    
 
-<h2 align="center"> 《  LENJUAGES 》</h2>
+<h2 align="center"> 《  Lenguajes》</h2>
  <div align="center">
               
  <img width="26px" src= "https://user-images.githubusercontent.com/90856289/139806176-be269e81-e7cf-466b-a65f-7c019e1b7b74.png" /> &nbsp; *HTML.* 
