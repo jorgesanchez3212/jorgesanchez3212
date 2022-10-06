@@ -37,8 +37,10 @@ Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
 </div>
 <br>
 
-                   
-**◅ CURSOS DE PROGRAMACION ▻**
+<h2 align="center"> 《  Títulos oficiales 》</h2>
+ <div align="center">
+  -Certificacion de Java Basico de Open BootCamp
+ </div>                                           
 
       
 <h2 align="center"> 《  Contacto 》</h2>
