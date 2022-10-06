@@ -51,9 +51,10 @@ Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
  </div><br>
                    
                    
-**◅ LENGUAJES DE APRENDIZAJE ▻**
 
-                   
+<h2 align="center"> 《  LENJUAGES 》</h2>
+ <div align="center">
+              
  <img width="26px" src= "https://user-images.githubusercontent.com/90856289/139806176-be269e81-e7cf-466b-a65f-7c019e1b7b74.png" /> &nbsp; *HTML.* 
 
 <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> &nbsp; *SQL.* 
@@ -61,4 +62,5 @@ Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
 <img width="26px" src="https://user-images.githubusercontent.com/90856289/139806319-958523d9-8220-4bd1-a2ea-543774eb3422.png" /> &nbsp; *JAVA.* 
 
 <img width="26px" src="https://cms-assets.tutsplus.com/uploads/users/1499/posts/29820/preview_image/kotlin.jpg" /> &nbsp; *KOTLIN.* 
+</div>
 
