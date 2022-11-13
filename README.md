@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://jorgesanchez3212.github.io/" target="_blank">
     <img loading="lazy" style="border-radius: 0.25rem;" 
-      src="Downloads\Diseño sin título.png" width="1300px" height="270px
+      src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpcredcom.com%2Fblog%2Fgaming%2Fcomo-elegir-el-mejor-teclado-gamer%2F&psig=AOvVaw3HlWAz2RekRW97fMznEEjl&ust=1668386651599000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiXtd72qfsCFQAAAAAdAAAAABAK" width="1300px" height="270px
  alt="Imagen" 
       borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'> 
   </a>
