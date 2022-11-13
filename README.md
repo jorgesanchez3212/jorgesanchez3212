@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://jorgesanchez3212.github.io/" target="_blank">
     <img loading="lazy" style="border-radius: 0.25rem;" 
-      src="https://pcredcom.com/blog/wp-content/uploads/2020/06/los-mejores-teclados-gamer.jpg" width="1300px" height="470px
+      src="   https://user-images.githubusercontent.com/90856289/139397910-9dd32d06-1c1d-4186-9fcc-412f3cc14902.jpg" width="1300px" height="270px
  alt="Imagen" 
       borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'> 
   </a>
