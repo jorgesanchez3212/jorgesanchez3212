@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://jorgesanchez3212.github.io/" target="_blank">
     <img loading="lazy" style="border-radius: 0.25rem;" 
-      src="C:\Users\pejor\Downloads\Diseño sin título.png" width="1300px" height="270px
+      src="Downloads\Diseño sin título.png" width="1300px" height="270px
  alt="Imagen" 
       borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'> 
   </a>
