@@ -55,7 +55,7 @@ Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
 <h2 align="center"> 《  Lenguajes en aprendizaje 》</h2>
 
 <div align="center">
-<img width="50px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> &nbsp; 
+
 <img width="50px" title="Java" src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" /> &nbsp; 
 <img width="50px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp; 
 <img width="50px" title="HTML" src="https://i.imgur.com/4Pfb5Jn.png" /> &nbsp; 
