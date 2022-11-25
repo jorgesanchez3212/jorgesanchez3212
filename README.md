@@ -62,7 +62,6 @@ Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
 <img width="50px" title="CSS" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" /> &nbsp; 
 <img width="50px" title="Kotlin" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" /> &nbsp; 
 <img width="50px" title="SQL" src="https://www.bimind.es/files/img/azure/main-qimg-7ab87d49737b0b12fbdc806effac21b3.png" /> &nbsp; 
-<img width="50px" title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" /> &nbsp; 
 <img width="50px" title="XML/FXML" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png" /> &nbsp; 
 <img width="50px" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /> &nbsp; 
 </div>
