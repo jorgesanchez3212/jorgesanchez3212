@@ -9,7 +9,7 @@
 <p align="center"><b> Visitas totales al perfil <b/></p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/JorgeSanchezBerrocoso/count.svg" /></p> 
 
-<h1 align= "center">Buenas, soy Jorge Sánchez 💻</h1>
+<h1 align= "center">Buenas, soy Jorge Sánchez </h1>
 
 Soy estudiante de [**2 de Desarrollo de aplicaciones multiplataforma** en el instituto ****IES Luis Vives****](https://aulavirtual33.educa.madrid.org/ies.luisvives.leganes/) en Formación Profesional de Grado Superior.
 Estoy interesado en aplicaciones multiplataforma y móviles. Me encanta el grado que estoy cursando y poder seguir aprendiendo en este mundillo.
