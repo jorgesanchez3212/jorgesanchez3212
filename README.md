@@ -18,7 +18,7 @@ Estoy interesado en aplicaciones multiplataforma y móviles. Me encanta el grado
 <div align= "center">
 Jorge Sánchez Berrocoso. <br>
 <br>
-19 años.<br>
+20 años.<br>
 <br>
 España.<br>
 <br>
@@ -42,7 +42,9 @@ Graduado en ***Bachillerato*** (modalidad de ciencias tecnológicas).
 
       
 <h2 align="center"> 《  Contacto 》</h2>
-                    <div align = "center">       
+                    <div align = "center"> 
+- pejor3212@gmail.com
+                      <br>
 - jsanchezberrocoso@gmail.com
 <br>
 - jorge.sanchezberrocoso@alumno.iesluisvives.org
